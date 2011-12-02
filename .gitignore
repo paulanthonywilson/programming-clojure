@@ -10,3 +10,4 @@
 lib/*
 .lein-failures
 classes/*
+.lein-deps-sum
